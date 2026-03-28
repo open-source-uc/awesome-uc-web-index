@@ -1,0 +1,14 @@
+{
+  "name": "Nombre de la Comunidad",
+  "authors": ["Admin1", "@encargado"],
+  "url": "https://discord.gg/invite-code", 
+  "repo": null,
+  "description": "Espacio para compartir dudas de la carrera o coordinar juntas.",
+  "image": "comunidad-banner.jpg",
+  "extra": {
+    "platform": "Discord",
+    "is_official": false,
+    "membership": "open", 
+    "tags": ["estudio", "social", "gaming"]
+  }
+}

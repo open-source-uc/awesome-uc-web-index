@@ -1,0 +1,15 @@
+{
+  "name": "Título del Documento o Plantilla",
+  "authors": ["Nombre del autor"],
+  "repo": "https://github.com/usuario/plantilla-latex",
+  "url": "https://overleaf.com/read/...",
+  "description": "Plantilla para informes de laboratorio siguiendo el formato oficial.",
+  "download": "https://github.com/usuario/repo/archive/main.zip",
+  "resource_image": "preview-informe-fisica.webp", 
+  "extra": {
+    "course_code": "FIS1533",
+    "format": "LaTeX",
+    "doc_type": "Plantilla",
+    "semester": "2026-1"
+  }
+}

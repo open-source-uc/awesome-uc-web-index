@@ -1,0 +1,15 @@
+{
+  "name": "Nombre del Proyecto",
+  "authors": ["Nombre o @usuario_gh"],
+  "repo": "https://github.com/usuario/repo",
+  "url": "https://proyecto.uc.cl", 
+  "description": "Una descripción breve y concisa de lo que hace el proyecto.",
+  "download": "https://link-a-la-store-o-release.com",
+  "image": "logo.png", 
+  "extra": {
+    "stack": ["Astro", "Tailwind", "TypeScript"],
+    "status": "active", 
+    "tags": ["web", "productividad", "estudiantes"],
+    "license": "MIT"
+  }
+}
