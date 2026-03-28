@@ -1,0 +1,8 @@
+{
+  "name": "Zum",
+  "authors": ["@daleal"],
+  "labels": ["CLI", "API", "productividad"],
+  "description": "Herramienta para interactuar con APIs en la línea de comandos.",
+  "repo": "https://github.com/daleal/zum",
+  "url": "https://github.com/daleal/zum"
+}

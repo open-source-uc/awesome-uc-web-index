@@ -1,5 +1,7 @@
 {
   "name": "Nombre del Proyecto",
+  "labels": ["etiqueta1", "etiqueta2"],
+  "faculty": "Facultad de Ejemplo",
   "authors": ["Nombre o @usuario_gh"],
   "repo": "https://github.com/usuario/repo",
   "url": "https://proyecto.uc.cl", 

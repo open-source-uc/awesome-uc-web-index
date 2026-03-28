@@ -1,0 +1,8 @@
+{
+  "name": "directUC",
+  "labels": ["extensión", "productividad", "estudiantes"],
+  "authors": ["@wachunei"],
+  "description": "Extensión Web que permite el ingreso directo a diferentes servicios de la UC.",
+  "repo": "https://github.com/wachunei/directUC",
+  "url": "https://github.com/wachunei/directUC"
+}

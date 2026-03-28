@@ -1,0 +1,8 @@
+{
+  "name": "UCalendar",
+  "labels": ["calendario", "productividad", "estudiantes"],
+  "authors": ["@open-source-uc"],
+  "description": "App web que obtiene el horario de BuscaCursos para usarlo en Google Calendar.",
+  "repo": "https://github.com/open-source-uc/ucalendar",
+  "url": "https://github.com/open-source-uc/ucalendar"
+}

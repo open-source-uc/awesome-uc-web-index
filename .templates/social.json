@@ -1,5 +1,7 @@
 {
   "name": "Nombre de la Comunidad",
+  "labels": ["etiqueta1", "etiqueta2"],
+  "faculty": "Facultad de Ejemplo",
   "authors": ["Admin1", "@encargado"],
   "url": "https://discord.gg/invite-code", 
   "repo": null,

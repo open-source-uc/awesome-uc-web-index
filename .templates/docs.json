@@ -1,5 +1,7 @@
 {
   "name": "Título del Documento o Plantilla",
+  "labels": ["etiqueta1", "etiqueta2"],
+  "faculty": "Facultad de Ejemplo",
   "authors": ["Nombre del autor"],
   "repo": "https://github.com/usuario/plantilla-latex",
   "url": "https://overleaf.com/read/...",
